@@ -1,0 +1,5 @@
+<resources>
+    <style name="Base.Theme.DoAnChillTea" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="Theme.DoAnChillTea" parent="Base.Theme.DoAnChillTea" />
+</resources>
